@@ -1,0 +1,16 @@
+[
+  {
+    "ip": "162.243.103.246",
+    "threat_type": "botnet_c2",
+    "confidence": 95,
+    "last_reported": "2026-02-22",
+    "source": "feodo_tracker"
+  },
+  {
+    "ip": "178.62.3.223",
+    "threat_type": "botnet_c2",
+    "confidence": 95,
+    "last_reported": "2026-02-22",
+    "source": "feodo_tracker"
+  }
+]
